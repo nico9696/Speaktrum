@@ -15,4 +15,6 @@
 15. After it loads, click "F5" and make sure that you are on the main.dart page (which is under the "lib" folder) while doing this. It should be noted that this process takes time to load.
 16. Enjoy using our app!
 
+*you may encounter various problems running this on a Mac, so we suggest using Windows instead
+
 
