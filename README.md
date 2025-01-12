@@ -1,3 +1,6 @@
+Explanation: Speaktrum is an app for special or non-speaking kids to express themselves through illustrations.
+
+How to run:
 1. Install Flutter: https://docs.flutter.dev/get-started/install
 2. Install Vscode: https://code.visualstudio.com/download
 3. Setup Flutter on Vscode by following this video: https://youtu.be/F8HuUNXbJxk?si=HTKJcdRX5muQmZH6
